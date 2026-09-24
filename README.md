@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" />
-</p>
-
-<p align="center">
   <a href="https://www.youtube.com/@Pythoholic">YouTube</a>
   &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/soumyaraula/">LinkedIn</a>
