@@ -1,100 +1,64 @@
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<p align="center">
+  <img src="./assets/header.svg" width="100%" />
+</p>
 
-                    SOUMYA RAULA
+<p align="center">
+  <a href="https://www.youtube.com/@Pythoholic">YouTube</a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/soumyaraula/">LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="https://www.pythoholic.com/">Website</a>
+</p>
 
-     Software Engineer · AI Systems · Cloud · SRE
+## About
 
-    Building reliable systems, developer tools
-              and AI-powered products.
+Software engineer based in Japan working across **AI systems,
+distributed systems, cloud infrastructure and reliability engineering**.
 
-       [ LinkedIn ] [ YouTube ] [ Website ]
+I build production systems, developer tools and AI-powered products —
+then make them reliable, observable and boring to operate.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Outside work, I create engineering content through
+**[Pythoholic](https://www.youtube.com/@Pythoholic)**.
 
+## Building
 
-ABOUT
+### 🌑 [Nyx UI](https://github.com/Pythoholic/nyx-ui)
 
-14+ years building software, cloud infrastructure and
-production platforms.
+Open-source UI infrastructure for developer tools, dashboards and
+AI-powered applications.
 
-I work across software engineering, distributed systems,
-cloud infrastructure, reliability and AI-native products.
+### 🧠 Gustle
 
-Based in Japan 🇯🇵 · Creator of Pythoholic
+AI-native interview platform exploring adaptive interviews,
+agent orchestration and human-AI collaboration.
 
+## Engineering
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+**AI Systems** · **Distributed Systems** · **Cloud Architecture** ·
+**Site Reliability** · **Platform Engineering** · **Backend Engineering** ·
+**Observability** · **Developer Experience**
 
-CURRENTLY BUILDING
+## Stack
 
-🌑 NYX UI
-Open-source UI infrastructure for developer tools,
-dashboards and AI applications.
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,java,go,gcp,aws,kubernetes,docker,terraform,postgres,linux,git&perline=12" />
+</p>
 
-              → Explore Nyx UI
+## Selected work
 
+| | Project | Focus |
+|---|---|---|
+| 🌑 | **[Nyx UI](https://github.com/Pythoholic/nyx-ui)** | UI infrastructure for AI & developer applications |
+| ☁️ | **[TerraformDemos](https://github.com/Pythoholic/TerraformDemos)** | Infrastructure as Code |
+| 🚀 | **[Pythoholic AWS](https://github.com/Pythoholic/pythoholic_demo_aws)** | AWS architecture & cloud engineering |
+| ⚙️ | **[DramatiqWorkers](https://github.com/Pythoholic/DramatiqWorkers)** | Distributed asynchronous workers |
 
-🧠 AEDIS / GUSTLE
-Agentic interview and engineering systems exploring
-multi-agent orchestration, adaptive workflows and
-human-AI collaboration.
+## Pythoholic
 
-              → Building in progress
+> **Build → Break → Understand → Automate**
 
+Practical engineering education around software, cloud,
+infrastructure and automation.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-ENGINEERING
-
-    🧠 AI Systems        ☁️ Cloud Architecture
-    ⚙️ Platform          🛡️ Site Reliability
-    🌐 Distributed       📊 Observability
-    🐍 Backend           🚀 Developer Experience
-
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-TECHNOLOGY
-
-  🐍 Python    TS TypeScript    Java    Go
-  AWS          GCP              Kubernetes
-  Docker       Terraform        PostgreSQL
-  Argo         Cloudflare       Linux
-
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-SELECTED WORK
-
-Nyx UI
-UI infrastructure for developer & AI applications
-──────────────────────────────────────────────────
-
-TerraformDemos
-Infrastructure as Code examples and education
-──────────────────────────────────────────────────
-
-Pythoholic AWS
-AWS architecture and hands-on demonstrations
-──────────────────────────────────────────────────
-
-DramatiqWorkers
-Distributed asynchronous worker architecture
-──────────────────────────────────────────────────
-
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-PYTHOHOLIC
-
-          Build → Break → Understand → Automate
-
-Practical engineering education around cloud,
-software architecture, infrastructure and automation.
-
-                [ ▶ Pythoholic ]
-
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-              github.com/Pythoholic
+[▶ Watch Pythoholic](https://www.youtube.com/@Pythoholic)
