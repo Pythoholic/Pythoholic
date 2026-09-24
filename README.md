@@ -1,60 +1,57 @@
+<h1 align="center">Soumya Raula</h1>
+
 <p align="center">
-  <a href="https://www.youtube.com/@Pythoholic">YouTube</a>
-  &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/soumyaraula/">LinkedIn</a>
-  &nbsp;•&nbsp;
-  <a href="https://www.pythoholic.com/">Website</a>
+  <strong>Software Engineer · AI Systems · Cloud Infrastructure · SRE</strong>
 </p>
 
-## About
+<p align="center">
+  Building reliable systems, developer tools and AI-powered products.<br>
+  Based in Japan 🇯🇵 · also known as <strong>Pythoholic</strong>
+</p>
 
-Software engineer based in Japan working across **AI systems,
-distributed systems, cloud infrastructure and reliability engineering**.
+<p align="center">
+  <a href="https://www.linkedin.com/in/soumyaraula/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Soumya_Raula-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.youtube.com/@Pythoholic">
+    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-Pythoholic-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  <a href="https://www.pythoholic.com/">
+    <img alt="Website" src="https://img.shields.io/badge/Web-pythoholic.com-222222?style=for-the-badge&logo=googlechrome&logoColor=white">
+  </a>
+</p>
 
-I build production systems, developer tools and AI-powered products —
-then make them reliable, observable and boring to operate.
+---
 
-Outside work, I create engineering content through
-**[Pythoholic](https://www.youtube.com/@Pythoholic)**.
+## 👋 About me
 
-## Building
+I’m a software engineer working across **AI, cloud infrastructure, platform engineering and site reliability**.
+
+I enjoy building systems at the point where software meets infrastructure — from application architecture and distributed systems to CI/CD, observability, automation and production reliability.
+
+More recently, I’ve been focused on **AI-assisted products, agentic workflows, developer tooling and interface systems**.
+
+Outside my day job, I build in public and teach engineering through [**Pythoholic**](https://www.youtube.com/@Pythoholic).
+
+> Build useful things.  
+> Make them reliable.  
+> Make them simple to operate.
+
+---
+
+## 🚀 What I'm building
 
 ### 🌑 [Nyx UI](https://github.com/Pythoholic/nyx-ui)
 
-Open-source UI infrastructure for developer tools, dashboards and
-AI-powered applications.
+An open-source UI system for building:
 
-### 🧠 Gustle
+- Developer tools
+- Admin platforms
+- AI applications
+- Dashboards
+- Workflow interfaces
 
-AI-native interview platform exploring adaptive interviews,
-agent orchestration and human-AI collaboration.
+Built around **Tailwind CSS 4**, semantic markup, reusable components and framework-independent behavior.
 
-## Engineering
-
-**AI Systems** · **Distributed Systems** · **Cloud Architecture** ·
-**Site Reliability** · **Platform Engineering** · **Backend Engineering** ·
-**Observability** · **Developer Experience**
-
-## Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,ts,java,go,gcp,aws,kubernetes,docker,terraform,postgres,linux,git&perline=12" />
-</p>
-
-## Selected work
-
-| | Project | Focus |
-|---|---|---|
-| 🌑 | **[Nyx UI](https://github.com/Pythoholic/nyx-ui)** | UI infrastructure for AI & developer applications |
-| ☁️ | **[TerraformDemos](https://github.com/Pythoholic/TerraformDemos)** | Infrastructure as Code |
-| 🚀 | **[Pythoholic AWS](https://github.com/Pythoholic/pythoholic_demo_aws)** | AWS architecture & cloud engineering |
-| ⚙️ | **[DramatiqWorkers](https://github.com/Pythoholic/DramatiqWorkers)** | Distributed asynchronous workers |
-
-## Pythoholic
-
-> **Build → Break → Understand → Automate**
-
-Practical engineering education around software, cloud,
-infrastructure and automation.
-
-[▶ Watch Pythoholic](https://www.youtube.com/@Pythoholic)
+```bash
+npm i @nyx-raul/core@beta @nyx-raul/plugins@beta
