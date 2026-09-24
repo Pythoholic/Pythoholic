@@ -27,7 +27,7 @@
 
 I’m a software engineer working across **AI, cloud infrastructure, platform engineering and site reliability**.
 
-I enjoy building systems at the point where software meets infrastructure — from application architecture and distributed systems to CI/CD, observability, automation and production reliability.
+I enjoy building systems at the point where software meets infrastructure from application architecture and distributed systems to CI/CD, observability, automation and production reliability.
 
 More recently, I’ve been focused on **AI-assisted products, agentic workflows, developer tooling and interface systems**.
 
